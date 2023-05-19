@@ -1,0 +1,6 @@
+minihack==0.1.4
+nle-language-wrapper==0.2.0
+openai==0.27.7
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.29.2
